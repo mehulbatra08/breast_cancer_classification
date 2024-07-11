@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Load the model
-model = pickle.load(open("Breast_Cancer_Classification/model.pkl", "rb"))
+model = pickle.load(open("model.pkl", "rb"))
 
 app = Flask(__name__)
 
