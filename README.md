@@ -1,5 +1,7 @@
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d6a8e586-c0d7-4efb-8a14-842ca4c1807d">
-# Breast Cancer Prediction Model
+
+
+## Breast Cancer Prediction Model
 
 This project implements a web application for predicting breast cancer using an AI model. The application allows users to input various features related to breast cancer and provides a prediction on whether cancer is detected or not.
 
