@@ -15,7 +15,7 @@ The web application is deployed and accessible at [Breast Cancer Classification 
 - Flask
 - HTML/CSS (Bootstrap)
 - Machine Learning (Sci-kit Learn)
-- Heroku (Deployment)
+- Render for Deployment
 
 ## Usage
 
